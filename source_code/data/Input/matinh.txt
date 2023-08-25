@@ -1,0 +1,41 @@
+MATINH	TENTINH
+1	1_Thành phố Hà Nội
+10	10_Tỉnh Lào Cai
+14	14_Tỉnh Sơn La
+15	15_Tỉnh Yên Bái
+17	17_Tỉnh Hoà Bình
+19	19_Tỉnh Thái Nguyên
+20	20_Tỉnh Lạng Sơn
+22	22_Tỉnh Quảng Ninh
+24	24_Tỉnh Bắc Giang
+25	25_Tỉnh Phú Thọ
+31	31_Thành phố Hải Phòng
+33	33_Tỉnh Hưng Yên
+35	35_Tỉnh Hà Nam
+36	36_Tỉnh Nam Định
+38	38_Tỉnh Thanh Hóa
+40	40_Tỉnh Nghệ An
+42	42_Tỉnh Hà Tĩnh
+44	44_Tỉnh Quảng Bình
+46	46_Tỉnh Thừa Thiên Huế
+48	48_Thành phố Đà Nẵng
+52	52_Tỉnh Bình Định
+56	56_Tỉnh Khánh Hòa
+64	64_Tỉnh Gia Lai
+66	66_Tỉnh Đắk Lắk
+67	67_Tỉnh Đắk Nông
+68	68_Tỉnh Lâm Đồng
+70	70_Tỉnh Bình Phước
+72	72_Tỉnh Tây Ninh
+74	74_Tỉnh Bình Dương
+75	75_Tỉnh Đồng Nai
+77	77_Tỉnh Bà Rịa - Vũng Tàu
+79	79_Thành Phố Hồ Chí Minh
+80	80_Tỉnh Long An
+82	82_Tỉnh Tiền Giang
+87	87_Tỉnh Đồng Tháp
+89	89_Tỉnh An Giang
+91	91_Tỉnh Kiên Giang
+92	92_Thành phố Cần Thơ
+93	93_Tỉnh Hậu Giang
+95	95_Tỉnh Bạc Liêu
